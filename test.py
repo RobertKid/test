@@ -16,8 +16,8 @@ for i in range(3):
 
 for i in range(3):
     print(holy[i])
-bad_name = ["Trump","biden","aobama","xxx"]
+test_name = ["Trump","biden","a","xxx"]
 
-for i in bad_name:
+for i in test_name:
     print(i)
 
